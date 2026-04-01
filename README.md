@@ -106,3 +106,4 @@ Redux Toolkit usage
 Async Thunks
 API integration
 State management in React
+<img width="1365" height="919" alt="Screenshot" src="https://github.com/user-attachments/assets/e26f4222-174c-4426-9550-33b331ab35f0" />
