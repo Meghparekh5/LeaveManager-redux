@@ -1,0 +1,15 @@
+{
+  "leaves": [
+    {
+      "name": "Megh",
+      "type": "Half-Day",
+      "start": "2026-04-01",
+      "end": "2026-04-03",
+      "reason": "Half day",
+      "status": "Pending",
+      "appliedDate": "4/1/2026",
+      "id": "F_9Ec1tRIW4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
