@@ -6,11 +6,17 @@ This project allows users to add, view, filter, and search employee leave reques
 🚀 Features
 
 ✅ Add new leave requests
+
 ✅ View all leave records
+
 ✅ Search employees by name
+
 ✅ Filter leave type (Sick / Casual / Paid)
+
 ✅ Redux Toolkit state management
+
 ✅ JSON Server as a fake REST API
+
 ✅ Responsive UI
 
 🛠️ Technologies Used
@@ -19,26 +25,34 @@ This project allows users to add, view, filter, and search employee leave reques
 🔄 React Redux
 🌐 JSON Server (Fake API)
 🎨 CSS
-📁 Project Structure
+
 LeaveManager
-│
+
 ├── src
-│   ├── components
-│   │   ├── AddLeave.jsx
-│   │   ├── Filter.jsx
-│   │   └── LeaveList.jsx
-│   │
-│   ├── features
-│   │   └── leaveSlice.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
+
+│ ├── components
+
+│ │ ├── AddLeave.jsx
+
+│ │ ├── Filter.jsx
+
+│ │ └── LeaveList.jsx
+
+│ ├── features
+
+│ │ └── leaveSlice.js
+
+│ ├── App.jsx
+
+│ ├── main.jsx
+
+│ └── index.css
+
 ├── db.json
+
 ├── package.json
+
 └── README.md
-⚙️ Installation
 
 Clone the repository:
 
